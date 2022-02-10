@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SergeyMoshkov
 - 👀 I’m interested in python, go, ruby
-- 🌱 I’m currently learning ruby on rails
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on web development with ruby on rails
 - 📫 How to reach me sergejmoshkov@gmail.com
 
